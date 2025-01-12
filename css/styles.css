@@ -104,14 +104,26 @@ ul {
   color: #2e2f42;
 }
 
+.li-team {
+  background-color: #ffffff;
+}
+
 .team-h {
   background-color: #FFFFFF;
   color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
 }
 
-.text-p {
+.team-p {
   background-color: #FFFFFF;
-  color: #2e2f42;  
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;  
 }
 
 [type] {
@@ -154,6 +166,10 @@ ul {
   text-transform: capitalize;
   color: #2e2f42;
   text-transform: capitalize;
+}
+
+.li-portfolio {
+  background-color: #E7E9FC;
 }
 
 .portfolio-head {
