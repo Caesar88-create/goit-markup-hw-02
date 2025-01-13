@@ -135,6 +135,12 @@ ul {
   background-color: #4d5ae5;
 }
 
+.hero-title {
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+}
+
 .hero-btn {
   background-color: #4D5AE5;
   color: #ffffff;  
@@ -146,8 +152,24 @@ ul {
   cursor: pointer;
 }
 
+.hero-btn:hover {
+  background-color: #404BBF;
+}
+
+.hero-btn:focus {
+  background-color: #404BBF;
+}
+
+.team {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
 .team-h {
-  background-color: #FFFFFF;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
