@@ -49,15 +49,21 @@ ul {
   color:#2e2f42;
   font-weight: 500;
   line-height: 1.33;
-  letter-spacing: -0,02em;
+  letter-spacing: 0.02em;
   font-size: 16px;
 }
 
-.header-menu-link:hover {
+.header-menu-item {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-size: 16px;
+}
+
+.header-menu-item:hover {
   color: #404bbf;
 }
 
-.header-menu-link:focus {
+.header-menu-item:focus {
   color: #404bbf;
 }
 
